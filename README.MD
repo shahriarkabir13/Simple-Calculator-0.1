@@ -96,7 +96,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by [Your Name](https://github.com/your-username).
+Developed by Tonmoy,sojib,arpita,monika.
 
-
-Feel free to modify the placeholders like `your-username` and `[Your Name]` with your actual details. Let me know if you'd like additional customizations!
